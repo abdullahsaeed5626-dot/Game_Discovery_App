@@ -499,8 +499,8 @@ This makes the project a practical demonstration of frontend application archite
 
 ## Live links & gitHub Repository
 
-![Live Demo](https://game-hub-abdullah.vercel.app/)
-![GitHub Repo](https://github.com/abdullahsaeed5626-dot/game-hub)
+![Live Demo](https://game-discovery-app-smoky.vercel.app/)
+![GitHub Repo](https://github.com/abdullahsaeed5626-dot/Game_Discovery_App)
 
 ## 👨‍💻 Author
 

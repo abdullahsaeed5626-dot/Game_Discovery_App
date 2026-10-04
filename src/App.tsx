@@ -182,7 +182,7 @@
 
 // export default App;
 
-import { Box, Flex, Grid, GridItem, Text } from "@chakra-ui/react";
+import { Box, Flex, Grid, GridItem } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
 import "./App.css";
 import GameGrid from "./components/GameGrid";
